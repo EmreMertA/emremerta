@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre Mert Akdağ</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌍 I'm based in **Turkey, Denizli ,**
- 
+- 🌍 I'm based in **Turkey, Denizli**
+
 - ✉️ You can contact me at **emremakdag55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
